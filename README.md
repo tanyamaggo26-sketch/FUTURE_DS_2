@@ -46,7 +46,9 @@ To study and evaluate ad campaign effectiveness, identify top-performing demogra
 
 
 👩‍💻 Author
+
 Tanya Maggo
+
 Created as part of a data storytelling and visualization project using Power BI.
 
 🔗 Connect with me on LinkedIn: https://www.linkedin.com/in/tanya-maggo-8a354b315?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
